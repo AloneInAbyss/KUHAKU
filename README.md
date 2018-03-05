@@ -8,6 +8,9 @@ O objetivo deste site é divulgar conhecimento sobre jogos e outros assuntos var
 ### Desenvolvimento
 Atualmente o site só faz uso de três recursos: *HTML*, *CSS* e *JavaScript*, os pilares do desenvolvimento web. Também usamos um framework, o [Bootstrap](https://getbootstrap.com/).
 
+### Informações
+As versões do site estão separadas nos *branchs* aqui do *GitHub*, sendo a mais recente a versão `pré-alpha 0.0.2`.
+
 ### Contato
 Informações para contato:
 > **Nome**: Thiago Henrique Assi
