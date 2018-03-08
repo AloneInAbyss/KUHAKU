@@ -1,6 +1,6 @@
-# KUHAKŪ
+# KŪHAKU
 
-Repositório do Modelo do Site **KUHAKŪ** (nome temporário), criado para fins de estudo e entretenimento.
+Repositório do Modelo do Site **KŪHAKU** (nome temporário), criado para fins de estudo e entretenimento.
 
 [Link para acessar o site](https://thiago-assi.000webhostapp.com/)
 
