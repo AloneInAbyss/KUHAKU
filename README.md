@@ -11,7 +11,7 @@ O objetivo deste site é divulgar conhecimento sobre jogos e outros assuntos var
 Atualmente o site só faz uso de quatro recursos: *HTML*, *CSS* e *JavaScript* - os pilares do desenvolvimento web - e *PHP*. Também usamos um framework, o [Bootstrap](https://getbootstrap.com/).
 
 ### Informações
-As versões do site estão separadas nos *branchs* aqui do *GitHub*.
+As versões do site estão separadas nos *branchs* aqui do *GitHub*. Arquivos de mídia (imagens, áudio, música) não ficam disponíveis aqui neste repositório, apenas os arquivos de **código-fonte**.
 
 ### Contato
 Informações para contato:
