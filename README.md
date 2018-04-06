@@ -2,7 +2,7 @@
 
 Repositório do Modelo do Site **KŪHAKU**, criado para fins de estudo e entretenimento.
 
-[Link para acessar o site](https://thiago-assi.000webhostapp.com/)
+[Link para acessar o site](https://thiago-assi.000webhostapp.com/site-kuuhaku/)
 
 ### Introdução
 O objetivo deste site é divulgar conhecimento sobre jogos e outros assuntos variados, da cultura geek. Também serve como objeto de estudo para essa vasta área da Tecnologia da Informação.
