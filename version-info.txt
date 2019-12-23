@@ -1,35 +1,30 @@
-﻿<!-- 
-    VERSÃO ATUAL
-    v10
-    05.01.2019
-    
-    ARQUIVOS ALTERADOS
-    {
-        Página 'erro404.php' removida;
-        Página 'index' atualizada;
-        Páginas 'lieat', 'lieat II' e 'lieat III' corrigidas;
-        Página 'nogamenolife' corrigida e modificada;
-        Pasta de imagens atualizada;
-    }
+﻿/*
+   UNIVERSO AMARELO
+   Versão atual: 11
 
-    RESUMO DO UPDATE
-    {
-        Correções ortográficas, e uma página desnecessária removida;
-        Imagens adicionadas em 'No Game No Life';
-    }
+   CHANGELOG
+   {
+        - Versão 11
+        O site voltará a estar hospedado e associado ao site "Universo Amarelo"
+        Script do rodapé da página de "No Game No Life" atualizado;
+        Tamanho das imagens da página de "No Game No Life" atualizado;
+   }
 
-    DETALHES IMPORTANTES
-    {
+
+   PLANEJAMENTOS
+   {
+        Adicionar versão rearranjada da OST de LiEat;
+        Adicionar ícones (emoticons & logotipos [Facebook, Github, etc.]), com o Font Awesome;
+        (LiEat II, LiEat III) Colocar os personagens;
+        (LiEat II, LiEat III) Colocar as informações do mapa;
+        (LiEat, LiEat II, LiEat III) Colocar a trilha sonora;
+        Criar uma página de notícias;
+        Passar para o Bootstrap 4;
+   }
+
+   NOTAS 
+   {
         Ao criar uma nova página, altere os scripts de "menu-lateral" e "footer" para incluir a página nova;
         Use como modelo o arquivo "pagina-modelo.php";
-    }
-
-    COISAS PARA FAZER / IDEIAS
-    - Adicionar ícones (emoticons & logotipos [Facebook, Github, etc.]), com o Font Awesome;
-    - (LiEat II, LiEat III) Colocar os personagens;
-    - (LiEat II, LiEat III) Colocar as informações do mapa;
-    - (LiEat, LiEat II, LiEat III) Colocar a trilha sonora;
-    - Criar uma página de notícias;
-
-    - Passar para o Bootstrap 4;
--->
+   }
+*/

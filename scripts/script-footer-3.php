@@ -8,7 +8,7 @@ echo "
 						<div class=\"col-sm-3 col-xs-6\">
 							<small style=\"color:#b8b894\">Páginas Principais</small><br>
 							<a href=\"../../index.php\"><small>Início</small></a><br>
-							<a href=\"pages/sobrenos.php\"><small>Sobre Nós</small></a><br>
+							<a href=\"../../pages/sobrenos.php\"><small>Sobre Nós</small></a><br>
 						</div>
 						<div class=\"col-sm-3 col-xs-6\">
 						<small style=\"color:#b8b894\">Páginas - Jogos</small><br>

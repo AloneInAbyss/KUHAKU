@@ -397,7 +397,7 @@
 									<div class="col-md-offset-1 col-md-10 col-md-offset-1">
 										<p class="lead">INTRODUÇÃO</p>
 										<p>
-											LiEat é a história de um andarilho atravessando um estranho e misterioso mundo junto com um (ou, "uma") dragão, comprando e vendendo informações, e ao mesmo tempo tentando descobrir a verdade sobre si mesmos. Ao longo do caminho, eles vão descobrir uma série de mistérios, conhecer uma variedade incrível de personagens, incluindo outros dragões (sério, dragões são demais!), e descobrir acontecimentos do passado que os levaram a ser quem são hoje. 
+											LiEat é a história de um viajante atravessando um estranho e misterioso mundo junto com um (ou melhor, "uma") garota-dragão, comprando e vendendo informações, e ao mesmo tempo tentando descobrir a verdade sobre si mesmos. Ao longo do caminho, eles vão descobrir uma série de mistérios, conhecer uma variedade incrível de personagens, incluindo outros dragões (sério, dragões são demais!), e descobrir acontecimentos do passado que os levaram a ser quem são hoje. 
 										</p>
 									</div>
 								</div>
@@ -409,7 +409,7 @@
 								<div class="row">
 									<div class="col-md-offset-1 col-md-10 col-md-offset-1">
 										<p>
-											O Primeiro Capítulo da história introduz Efina e Leo, que chegam à uma pequena cidade, a <strong>Cidade Vermilion</strong> (ou: 'Vermilion Town'), que tem um grande segredo. Quando Efi começa a perceber e entender o mundo em volta dela com uma nova e diferente perspectiva, os dois descobrem que a lenda sobre criaturas que caçam a noite não é apenas um conto para assustar crianças... 
+											O Primeiro Capítulo da história introduz Efina, a garota-dragão e Leo, o viajante, que chegam à uma pequena cidade, a <strong>Cidade Vermilion</strong> (ou: 'Vermilion Town'), que tem um grande segredo. Quando Efi começa a perceber e entender o mundo em volta dela com uma nova e diferente perspectiva, os dois descobrem que a lenda sobre criaturas que caçam a noite não é apenas um conto para assustar crianças... 
 										</p>
 									</div>
 								</div>
