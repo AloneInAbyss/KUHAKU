@@ -1,6 +1,6 @@
 ﻿/*
    UNIVERSO AMARELO
-   Versão atual: 11
+   Versão atual: 12
 
    CHANGELOG
    {
@@ -8,6 +8,19 @@
         O site voltará a estar hospedado e associado ao site "Universo Amarelo"
         Script do rodapé da página de "No Game No Life" atualizado;
         Tamanho das imagens da página de "No Game No Life" atualizado;
+
+        - Versão 12
+        Link para o repositório do GitHub atualizado; 
+        (para fazer) Remover do Rodapé "League of Bronzes";
+        (para fazer) Atualizar link do rodapé para meu site;
+        (para fazer) Verificar porque o tamanho da fonte no rodapé muda;
+   }
+
+   ARQUIVOS ALTERADOS
+   {
+        (Deve ser necessário atualizar todos os arquivos devido a problemas de conflitos anteriores)
+        sobrenos.php
+        version-info.txt
    }
 
 

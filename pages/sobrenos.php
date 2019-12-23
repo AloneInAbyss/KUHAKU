@@ -129,7 +129,7 @@
                         <br>
                         <p>Você sabia? O código-fonte deste site está disponível no GitHub! Caso queira ajudar no desenvolvimento, corrigir algum erro ou bug, ou ainda ajudar de qualquer outra maneira, basta entrar nesse link:</p>
 						<br>
-						<a href="https://github.com/AloneInAbyss/kuuhaku/" class="btn btn-primary" role="button" target="_blank">GitHub</a>
+						<a href="https://github.com/AloneInAbyss/site-kuuhaku/" class="btn btn-primary" role="button" target="_blank">GitHub</a>
                     </div>
                 </div>
                 <!-- FIM DA LINHA -->
