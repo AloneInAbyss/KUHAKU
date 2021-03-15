@@ -26,7 +26,7 @@ echo "
 							<small style=\"color:#b8b894\">Site Parceiro</small><br>
 							<a href=\"http://leagueofbronzes.000webhostapp.com/\" target=\"_blank\"><small>League of Bronzes</small></a><br>
 							<br><small style=\"color:#b8b894\">Site Principal</small><br>
-							<a href=\"http://thiago-assi.000webhostapp.com/\"><small>Thiago Assi</small></a><br><br> 
+							<a href=\"http://universoamarelo.com.br/\"><small>Thiago Assi</small></a><br><br> 
 						</div>
 					</div>
 				</footer>

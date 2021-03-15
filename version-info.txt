@@ -12,8 +12,11 @@
         - Versão 12
         Link para o repositório do GitHub atualizado; 
         (para fazer) Remover do Rodapé "League of Bronzes";
-        (para fazer) Atualizar link do rodapé para meu site;
         (para fazer) Verificar porque o tamanho da fonte no rodapé muda;
+
+	- Versão 13
+	Link do rodapé para o meu site alterado;
+	Descrições na seção "Sobre Nós" alteradas;
    }
 
    ARQUIVOS ALTERADOS

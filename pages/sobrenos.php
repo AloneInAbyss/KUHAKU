@@ -88,7 +88,7 @@
                         <br>
                         <p class="lead"><strong>Yaaay!</strong> Bem-vindo!</p>
                         <br>
-                        <p>Este é o projeto do site KŪHAKU! O objetivo é divulgar conhecimento sobre jogos e outros assuntos variados, da cultura geek. Também serve como objeto de estudo para essa vasta área da Tecnologia da Informação.</p>
+                        <p>Este é o projeto do site KŪHAKU! O objetivo é falar sobre jogos e outros assuntos variados, da cultura geek. Foi criado em 2016 para testar algumas <em>features</em> que aprendi estudando Bootstrap.</p>
                     </div>
                 </div>
                 <!-- FIM DA LINHA -->
@@ -103,8 +103,8 @@
                         <br>
                         <p class="lead">Desenvolvimento</p>
                         <br>
-                        <p>Atualmente o site é composto por alguns recursos como: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>PHP</strong>, além do framework <a href="https://getbootstrap.com/docs/3.3/" target="_blank">Bootstrap</a> também!</p>
-						<p>Desenvolvido de forma independente, o site vai recebendo mais atualizações com novas páginas e conteúdo. Nenhum dos conteúdos de mídia deste site (imagens, vídeos & áudio) é de minha autoria, e pertence a seus respectivos criadores.</p>
+                        <p>O site é composto somento por recursos simples como: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>PHP</strong>, além do framework <a href="https://getbootstrap.com/docs/3.3/" target="_blank">Bootstrap</a> também!</p>
+						            <p>Nenhum dos conteúdos de mídia deste site (imagens, vídeos & áudio) é de minha autoria, e pertence a seus respectivos criadores.</p>
                     </div>
 					<br>
                     <div class=" col-md-offset-1 col-md-4">
@@ -127,7 +127,7 @@
                         <br>
                         <p class="lead">GitHub</p>
                         <br>
-                        <p>Você sabia? O código-fonte deste site está disponível no GitHub! Caso queira ajudar no desenvolvimento, corrigir algum erro ou bug, ou ainda ajudar de qualquer outra maneira, basta entrar nesse link:</p>
+                        <p>Você sabia? O código-fonte deste site está disponível no GitHub! Caso queira sugerir algo, corrigir algum erro ou bug, ou ainda ajudar de qualquer outra maneira, basta entrar nesse link:</p>
 						<br>
 						<a href="https://github.com/AloneInAbyss/site-kuuhaku/" class="btn btn-primary" role="button" target="_blank">GitHub</a>
                     </div>
