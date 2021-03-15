@@ -1,6 +1,6 @@
 ﻿/*
    UNIVERSO AMARELO
-   Versão atual: 12
+   Versão atual: 13
 
    CHANGELOG
    {
@@ -14,9 +14,9 @@
         (para fazer) Remover do Rodapé "League of Bronzes";
         (para fazer) Verificar porque o tamanho da fonte no rodapé muda;
 
-	- Versão 13
-	Link do rodapé para o meu site alterado;
-	Descrições na seção "Sobre Nós" alteradas;
+        - Versão 13
+        Link do rodapé para o meu site alterado;
+        Descrições na seção "Sobre Nós" alteradas;
    }
 
    ARQUIVOS ALTERADOS
