@@ -1,6 +1,6 @@
-# KŪHAKU
+# KUUHAKU
 
-Repositório do site **KŪHAKU**, criado para fins de estudo e entretenimento.
+Repositório do site **KUUHAKU**, criado para fins de estudo e entretenimento.
 
 ## Introdução
 O objetivo deste site é divulgar conhecimento sobre jogos *indie*, animes e outros assuntos variados da cultura geek. Também serve como objeto de estudo para essa vasta área da Tecnologia da Informação.
